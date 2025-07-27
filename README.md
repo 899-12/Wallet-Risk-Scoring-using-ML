@@ -11,7 +11,7 @@ Given a list of wallet address and the objective is to score each wallet id on a
 ## Data Collection Method
 
 - **Platform Used**: Dune Analytics(https://dune.com)
-With the help of dune searched for required compound v2 data and queried it.
+  - With the help of dune searched for required compound v2 data and queried it.
 - **Protocol Analyzed**: Compound V2
 - **Tables Queried**:
   - `compound_v2.borrow`
@@ -81,7 +81,7 @@ Final output is a CSV file:
 
 # Visualization
 
-![alt text](image-2.png)
+![alt text](ml_output.png)
 
 
 ## Conclusion
